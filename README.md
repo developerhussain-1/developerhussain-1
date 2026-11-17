@@ -1,5 +1,5 @@
 # 💫 About Me:
-Indie App Developer | Builds Mobile Apps using flutter frameworks | Launched multiple apps on App Stores
+Indie App Developer | Flutter Developer | Dart | Launched multiple apps on Google PlayStore | Apps Deployment on App Stores | 
 
 
 ## 🌐 Socials:
